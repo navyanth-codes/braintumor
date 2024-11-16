@@ -7,3 +7,4 @@ seaborn==0.12.2
 opencv-python-headless==4.8.0.74
 Pillow==9.5.0
 tensorflow==2.14.0
+setuptools==68.0.0
