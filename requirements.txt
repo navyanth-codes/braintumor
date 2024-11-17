@@ -1,6 +1,6 @@
 # Python version
 python==3.13.1
-
+streamlit
 # Libraries
 cachetools==4.1.0
 decorator==4.3.0
