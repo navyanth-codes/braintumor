@@ -1,19 +1,23 @@
-cachetools==5.3.1
-decorator==5.1.1
-grpcio==1.59.0
-gunicorn==21.2.0
+# Python version
+python==3.13.1
+
+# Libraries
+cachetools==4.1.0
+decorator==4.3.0
+grpcio==1.58.0
+gunicorn==20.1.0
 h5py==3.10.0
-Keras==2.15.0
+Keras==2.12.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 numpy==1.26.1
 opencv-python==4.8.1.78
-packaging==23.2
+packaging==23.3
 Pillow==10.0.1
 requests==2.31.0
-requests-file==1.5.2
+requests-file==1.5.1
 scikit-learn==1.5.2
 scipy==1.11.3
-sklearn==0.0.post4
-streamlit==1.27.2
-tensorflow==2.15.0
+sklearn==0.0.post5
+streamlit==1.25.0
+tensorflow==2.14.0
