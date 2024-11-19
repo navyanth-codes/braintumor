@@ -8,7 +8,7 @@ import cv2
 def load_model():
     model = tf.keras.models.load_model('brain.h5')
     return model
-
+ 
 model = load_model()
 
 st.title('Brain Tumor Prediction')
